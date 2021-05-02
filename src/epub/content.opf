@@ -37,7 +37,6 @@
 		<dc:title id="fulltitle">Journal of a Lady of Quality: Being the narrative of a journey from Scotland to the West Indies, North Carolina, and Portugal, in the years 1774 to 1776</dc:title>
 		<meta property="file-as" refines="#fulltitle">Journal of a Lady of Quality</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-5">Lisbon (Portugal)--Description and travel--Early works to 1800</dc:subject>
 		<dc:subject id="subject-1">Scots -- Diaries</dc:subject>
 		<dc:subject id="subject-2">Women travelers -- Diaries</dc:subject>
 		<dc:subject id="subject-4">West Indies--Description and travel--Early works to 1800</dc:subject>
