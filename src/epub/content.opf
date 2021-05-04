@@ -58,9 +58,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Janet_Schaw</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2002034993</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Unidentified</dc:contributor>
-		<meta property="file-as" refines="#artist">Unidentified</meta>
-		<!--http://n2t.net/ark:/65665/vk7f92c3b96-8230-4ca5-b4e9-373ddd6de241-->
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79059754</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="writer-of-introduction">Evangeline Walker Andrews</dc:contributor>
 		<meta property="file-as" refines="#writer-of-introduction">Andrews, Evangeline Walker</meta>
